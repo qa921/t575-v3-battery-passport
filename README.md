@@ -1,2 +1,2 @@
-# t575-v3-battery-passport
-T575-V3 seed: battery recycling Action candidate
+# Battery Passport
+Validates intake passport data before recycler routing. Pin full SHA. Depends on `ajv`; npm facts apply. Advisory status unverified.

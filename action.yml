@@ -1,0 +1,8 @@
+name: Battery Passport
+description: Validate battery passport records for recycling
+runs:
+  using: node20
+  main: dist/index.js
+permissions:
+  contents: read
+  issues: write
